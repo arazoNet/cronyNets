@@ -10,23 +10,23 @@ This repository includes code and replication instructions for my research artic
 * [Code](#code)
 * [Simulation](#simulation)
 * [Replication](#replication)
-* [License](#license)
+* [License](#license and Citation)
 
 ## <a name="code"> Code
 
 The [src](src) directory includes five separate files with R functions, which are documented in the included [manual](builds/cronyNets_1.0.pdf).
 
-The easiest way to use these files is to install the cronyNets package located in the builds folder.  See this [install.packages documentation](https://www.rdocumentation.org/packages/utils/versions/3.4.0/topics/install.packages) for installation instructions.
+The easiest way to use these files is to install the cronyNets package located in the builds folder.  See  [installation instructions for R packages](https://www.rdocumentation.org/packages/utils/versions/3.4.0/topics/install.packages).
 
 
 Alternatively, you can import these functions into a current R session:
 
 ```
-source("R/cronyNets_Simulations.R")
-source("R/cronyNets_SocietySetup.R")
-source("R/cronyNets_NetworkStructures.R")
-source("R/cronyNets_AttackSetup.R")
-source("R/cronyNets_AttackSummary.R")
+source("src/cronyNets_Simulations.R")
+source("src/cronyNets_SocietySetup.R")
+source("src/cronyNets_NetworkStructures.R")
+source("src/cronyNets_AttackSetup.R")
+source("src/cronyNets_AttackSummary.R")
 ```
 If you import these files, please make sure to meet these dependencies in advance:  R (>= 3.1.0) , network, sna, parallel, doParallel, foreach, and iterators.
 
@@ -71,7 +71,7 @@ Note: simulations for this article were performed on a desktop computer running 
 
 ## <a name="license"> License and Citation
 
-Simulation code is made available as open source without warranties under an [MIT License](LICENSE).  If you use this code, either to modify for your own projects or to inspire an independent project, please consider using this citation:
+Simulation code is made available as open source without warranties under an [MIT License](LICENSE).  If you use this code, either directly to modify for your own projects or to inspire an independent project, please use this citation:
 
 > Razo, Armando (2020), cronyNets: crony capitalism network simulations. R package version 1.0.  URL=https://github.com/arazoNet/cronyNets.
   
