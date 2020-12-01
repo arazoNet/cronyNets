@@ -10,7 +10,7 @@ This repository includes code and replication instructions for my research artic
 * [Code](#code)
 * [Simulation](#simulation)
 * [Replication](#replication)
-* [License](#license and Citation)
+* [License and Citation](#license)
 
 ## <a name="code"> Code
 
