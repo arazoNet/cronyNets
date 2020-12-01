@@ -69,7 +69,7 @@ The replicate folder includes three scripts to regenerate data and statistical a
 
 Note: simulations for this article were performed on a desktop computer running Ubuntu 18.04 LTS with an Intel(R) Xeon(R) CPU E5-2687W v2 @ 3.40GHz.  The code relies heavily on a parallelized routine using the *foreach* package to use all available cores. To expedite simulations, you will need at least 16G RAM and Intel MKL for parallel mathematical computing.    
 
-## <a name="license"> Open Source License
+## <a name="license"> License and Citation
 
 Simulation code is made available as open source without warranties under an [MIT License](LICENSE).  If you use this code, either to modify for your own projects or to inspire an independent project, please consider using this citation:
 
