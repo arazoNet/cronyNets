@@ -16,7 +16,7 @@ This repository includes code and replication instructions for my research artic
 
 The [src](src) directory includes five separate files with R functions, which are documented in the included [manual](builds/cronyNets_1.0.pdf).
 
-The easiest way to use these files is to install the cronyNets package located in the builds folder.  See this [install.packages documentation] (https://www.rdocumentation.org/packages/utils/versions/3.4.0/topics/install.packages) for installation instructions.
+The easiest way to use these files is to install the cronyNets package located in the builds folder.  See this [install.packages documentation](https://www.rdocumentation.org/packages/utils/versions/3.4.0/topics/install.packages) for installation instructions.
 
 
 Alternatively, you can import these functions into a current R session:
