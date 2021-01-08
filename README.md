@@ -1,7 +1,7 @@
 
 # cronyNets
 
-This repository includes code and replication instructions for my research article "[Network structure and performance of crony capitalism systems](https://doi.org/10.1007/s11127-020-00864-9)" forthcoming in *[Public Choice](https://link.springer.com/journal/11127/volumes-and-issues)*.
+This repository includes code and replication instructions for my research article "[Network structure and performance of crony capitalism systems](https://rdcu.be/cdb0x)" forthcoming in *[Public Choice](https://link.springer.com/journal/11127/volumes-and-issues)*.
 
 <img src="figures/figure01-rent-sharing.png" width="400">
 
